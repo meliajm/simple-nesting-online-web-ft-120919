@@ -14,7 +14,7 @@ def hopper
           :languages => ["C"]
         }
      }
-  programmer_hash[:grace_hopper][:known_for][1] = "FORTRAN"
+  programmer_hash[:grace_hopper]
 end
 
 
